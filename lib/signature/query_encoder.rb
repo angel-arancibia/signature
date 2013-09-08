@@ -1,4 +1,4 @@
-module Signature
+module ApiSignature
   # Query string encoding extracted with thanks from em-http-request
   module QueryEncoder
     class << self

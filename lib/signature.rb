@@ -2,7 +2,7 @@ require 'openssl'
 
 require 'signature/query_encoder'
 
-module Signature
+module ApiSignature
   class AuthenticationError < RuntimeError; end
 
   class Token

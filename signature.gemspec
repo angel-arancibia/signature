@@ -4,7 +4,7 @@ require "signature/version"
 
 Gem::Specification.new do |s|
   s.name        = "signature"
-  s.version     = Signature::VERSION
+  s.version     = ApiSignature::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Martyn Loughran"]
   s.email       = ["me@mloughran.com"]
