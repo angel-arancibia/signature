@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "signature/version"
 
 Gem::Specification.new do |s|
-  s.name        = "signature"
+  s.name        = "api_signature"
   s.version     = ApiSignature::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Martyn Loughran"]
