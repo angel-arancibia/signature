@@ -1,6 +1,6 @@
 require 'openssl'
 
-require 'signature/query_encoder'
+require 'api_signature/query_encoder'
 
 module ApiSignature
   class AuthenticationError < RuntimeError; end

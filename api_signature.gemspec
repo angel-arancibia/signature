@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "signature/version"
+require "api_signature/version"
 
 Gem::Specification.new do |s|
   s.name        = "api_signature"
